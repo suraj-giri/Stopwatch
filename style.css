@@ -1,0 +1,29 @@
+
+.container{
+    border-style: dashed;
+    margin: 220px ;
+    border-radius: 10px;
+    text-align: center;
+}
+#time{
+    font-size: 5em;
+   
+}
+
+button{
+    
+    padding: 18px 10px;
+    font-size: 1.5em;
+    width: 180px;
+    margin: 10px;
+    border-radius: 15px;
+    color: rgb(240, 15, 15);
+    
+}
+button:hover{
+   
+    background-color: transparent;
+    color: black;
+   
+    
+}
